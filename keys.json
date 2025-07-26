@@ -8,7 +8,7 @@
         "steamid": null
     },
     "Z5MG-PX2R-101Z-JTQJ": {
-        "used": false,
+        "used": true,
         "steamid": null
     },
     "BXFA-269X-K03Z-1EXO": {
@@ -138,4 +138,5 @@
     "5BOY-CUJG-URY1-58YS": {
         "used": false,
         "steamid": null
-    }}
+    }
+}
